@@ -127,7 +127,26 @@ Proyek ini dibuat untuk keperluan **Tugas UAS Pemrograman Dasar**.
 
 ## 👤 Author
 
-Dibuat dengan ❤️ untuk Tugas UAS Pemrograman Dasar.
+<div align="center">
+
+### Dhede Febrian Purnawiranto
+
+🎓 D3 Teknik Informatika — Jurusan Teknologi Informasi  
+🏫 Politeknik Negeri Samarinda  
+📅 Angkatan 2025 | Semester 1
+
+---
+
+📚 **Tentang Proyek Ini**  
+Aplikasi Cuaca ini dibuat sebagai **Tugas UAS Mata Kuliah Pemrograman Dasar** Semester 1.  
+Dibangun menggunakan Python & Streamlit dengan integrasi OpenWeatherMap API.
+
+🛠️ **Teknologi yang Digunakan**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-API-orange?style=for-the-badge)
+
+</div>
 
 ---
 
