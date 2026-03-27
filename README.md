@@ -125,7 +125,7 @@ Kontribusi sangat disambut! Silakan:
 
 Proyek ini dibuat untuk keperluan **Tugas UAS Pemrograman Dasar**.
 
-## 👤 Author
+## 👤 Biodata Pengembang
 
 <div align="center">
 
@@ -133,7 +133,7 @@ Proyek ini dibuat untuk keperluan **Tugas UAS Pemrograman Dasar**.
 
 🎓 D3 Teknik Informatika — Jurusan Teknologi Informasi  
 🏫 Politeknik Negeri Samarinda  
-📅 Angkatan 2025 | Semester 1
+📅 Angkatan 2025 
 
 ---
 
